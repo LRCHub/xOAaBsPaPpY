@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "＝LOVE（イコールラブ）/ 1st Single『＝LOVE』【MV full】",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-05T13:30:50.477807Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "=LOVE",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_=LOVE_=LOVE.txt"
+    }
+  ]
+}
